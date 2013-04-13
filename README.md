@@ -1,4 +1,4 @@
-condor
+Condor
 ======
 Linear-Chain Conditional Random Fields for Named Entity Recognition
 ------
